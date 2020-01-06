@@ -5,9 +5,9 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://jpuwfblog.github.io/"/>
   <updated>2020-01-05T15:45:16.587Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://jpuwfblog.github.io/</id>
   
   <author>
     <name>jpuwfblog</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>jpuwfblog について</title>
-    <link href="http://yoursite.com/2020/01/01/about-jpuwfblog/"/>
-    <id>http://yoursite.com/2020/01/01/about-jpuwfblog/</id>
+    <link href="https://jpuwfblog.github.io/2020/01/01/about-jpuwfblog/"/>
+    <id>https://jpuwfblog.github.io/2020/01/01/about-jpuwfblog/</id>
     <published>2019-12-31T15:00:00.000Z</published>
     <updated>2020-01-05T15:45:16.587Z</updated>
     
